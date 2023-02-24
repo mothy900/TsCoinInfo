@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TsCoinInfo/static/js/main.d2bc8703.js",
+    "main.js": "/TsCoinInfo/static/js/main.715eeabd.js",
     "index.html": "/TsCoinInfo/index.html",
-    "main.d2bc8703.js.map": "/TsCoinInfo/static/js/main.d2bc8703.js.map"
+    "main.715eeabd.js.map": "/TsCoinInfo/static/js/main.715eeabd.js.map"
   },
   "entrypoints": [
-    "static/js/main.d2bc8703.js"
+    "static/js/main.715eeabd.js"
   ]
 }
